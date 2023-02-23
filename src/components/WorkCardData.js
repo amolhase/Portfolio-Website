@@ -31,7 +31,7 @@ const ProjectCardData = [
     imgsrc: project3,
     title: "Portfolio website",
     text: "This website is a digital platform that showcases my professional work and accomplishments. It is a personalized and customizable website that presents a collection of my work samples, skills, and achievements in a visually appealing and organized manner",
-    source : "https://github.com/amolhase/EcommerceApplicationProject.git"
+    source : "https://github.com/amolhase/Portfolio-Website.git"
 },
 ];
 
